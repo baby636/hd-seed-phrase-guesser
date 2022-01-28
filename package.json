@@ -42,7 +42,7 @@
     "envify": "^4.1.0",
     "ethjs": "^0.3.0",
     "metamascara": "^2.1.0",
-    "tape": "^4.8.0"
+    "tape": "^5.4.0"
   },
   "repository": {
     "type": "git",
