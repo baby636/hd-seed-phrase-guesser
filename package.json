@@ -11,9 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "bip39": "^2.4.0",
-    "eth-hd-keyring": "^1.2.1",
-    "ethereumjs-util": "^5.1.2",
-    "ethereumjs-wallet": "^0.6.0",
+    "eth-hd-keyring": "^3.6.0",
+    "ethereumjs-util": "^6.0.0",
+    "ethereumjs-wallet": "^1.0.0",
     "spell": "^1.0.0"
   },
   "browserify": {
